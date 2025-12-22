@@ -1,3 +1,6 @@
+"""
+Docstring for line_counter
+"""
 
 x = {1,2,3}
 
