@@ -1,8 +1,9 @@
-# Basic Tasks
+# Learning Guides: repository of books, websites and resources
 
 ## Intro
-A repository of programs for solving and automating problems.  
-
+Learning repository containing variuos resources. 
 ## Resources Used
 
  - Automate the Boring Stuff {https://automatetheboringstuff.com/}
+ - Learning Python: Powerful Object-oriented Programming
+ - Inttroduction to Programming using Java {https://math.hws.edu/javanotes/}
