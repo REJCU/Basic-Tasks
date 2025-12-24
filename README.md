@@ -6,4 +6,4 @@ Learning repository containing variuos resources.
 
  - Automate the Boring Stuff {https://automatetheboringstuff.com/}
  - Learning Python: Powerful Object-oriented Programming
- - Inttroduction to Programming using Java {https://math.hws.edu/javanotes/}
+ - Introduction to Programming using Java {https://math.hws.edu/javanotes/}
